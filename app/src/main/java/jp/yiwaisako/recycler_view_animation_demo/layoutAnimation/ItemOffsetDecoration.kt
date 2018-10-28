@@ -1,4 +1,4 @@
-package jp.yiwaisako.recycler_view_animation_demo
+package jp.yiwaisako.recycler_view_animation_demo.layoutAnimation
 
 import android.graphics.Rect
 import android.support.v7.widget.RecyclerView

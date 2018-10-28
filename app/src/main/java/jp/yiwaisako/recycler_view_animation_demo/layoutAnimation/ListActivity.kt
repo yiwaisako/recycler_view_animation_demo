@@ -1,4 +1,4 @@
-package jp.yiwaisako.recycler_view_animation_demo
+package jp.yiwaisako.recycler_view_animation_demo.layoutAnimation
 
 import android.content.Context
 import android.content.Intent
@@ -6,7 +6,6 @@ import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
 import android.os.Handler
 import android.support.v7.view.ContextThemeWrapper
-import android.support.v7.widget.AppCompatButton
 import android.support.v7.widget.AppCompatSpinner
 import android.support.v7.widget.LinearLayoutManager
 import android.support.v7.widget.RecyclerView
@@ -15,6 +14,7 @@ import android.view.animation.AnimationUtils
 import android.widget.AdapterView
 import android.widget.ArrayAdapter
 import com.patrickiv.demo.enteranimationdemo.model.AnimationItem
+import jp.yiwaisako.recycler_view_animation_demo.R
 import java.util.ArrayList
 
 class ListActivity : AppCompatActivity(), View.OnClickListener {

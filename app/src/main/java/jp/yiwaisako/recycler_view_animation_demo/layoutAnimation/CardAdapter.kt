@@ -1,9 +1,10 @@
-package jp.yiwaisako.recycler_view_animation_demo
+package jp.yiwaisako.recycler_view_animation_demo.layoutAnimation
 
 import android.support.v7.widget.RecyclerView
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
+import jp.yiwaisako.recycler_view_animation_demo.R
 
 class CardAdapter : RecyclerView.Adapter<CardAdapter.ViewHolder>() {
     val itemCounter = 64
